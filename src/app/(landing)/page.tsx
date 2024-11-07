@@ -1,7 +1,7 @@
 import Hero from "./_components/hero";
 import Footer from "./_components/footer";
 
-const LandingPage = () => {
+const Home = () => {
   return (
     <div className="min-h-full flex flex-col">
       <div
@@ -18,4 +18,4 @@ const LandingPage = () => {
   );
 };
 
-export default LandingPage;
+export default Home;
